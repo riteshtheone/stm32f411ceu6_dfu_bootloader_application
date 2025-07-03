@@ -1,0 +1,15 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:425:26:SWAPBYTE	1
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:97:20:USBD_StdDevReq	12
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:157:20:USBD_StdItfReq	12
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:216:20:USBD_StdEPReq	41
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:371:13:USBD_GetDescriptor	24
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:583:13:USBD_SetAddress	6
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:614:27:USBD_SetConfig	9
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:695:13:USBD_GetConfig	5
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:724:13:USBD_GetStatus	4
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:760:13:USBD_SetFeature	3
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:779:13:USBD_ClrFeature	3
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:803:6:USBD_ParseSetupRequest	1
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:830:6:USBD_CtlError	1
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:845:6:USBD_GetString	4
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:877:16:USBD_GetLen	2

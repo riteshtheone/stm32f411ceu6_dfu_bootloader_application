@@ -1,0 +1,15 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:425:26:SWAPBYTE	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:97:20:USBD_StdDevReq	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:157:20:USBD_StdItfReq	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:216:20:USBD_StdEPReq	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:371:13:USBD_GetDescriptor	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:583:13:USBD_SetAddress	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:614:27:USBD_SetConfig	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:695:13:USBD_GetConfig	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:724:13:USBD_GetStatus	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:760:13:USBD_SetFeature	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:779:13:USBD_ClrFeature	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:803:6:USBD_ParseSetupRequest	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:830:6:USBD_CtlError	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:845:6:USBD_GetString	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:877:16:USBD_GetLen	24	static

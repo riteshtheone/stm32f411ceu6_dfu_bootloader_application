@@ -1,0 +1,7 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2551:19:HAL_RCCEx_PeriphCLKConfig	17
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2664:6:HAL_RCCEx_GetPeriphCLKConfig	2
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2698:10:HAL_RCCEx_GetPeriphCLKFreq	5
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2778:6:HAL_RCCEx_SelectLSEMode	2
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2811:19:HAL_RCCEx_EnablePLLI2S	5
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2889:19:HAL_RCCEx_DisablePLLI2S	3
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3143:19:HAL_RCC_DeInit	12

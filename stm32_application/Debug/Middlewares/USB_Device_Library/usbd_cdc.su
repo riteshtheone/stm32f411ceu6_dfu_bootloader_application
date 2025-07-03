@@ -1,0 +1,15 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:258:16:USBD_CDC_Init	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:350:16:USBD_CDC_DeInit	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:391:16:USBD_CDC_Setup	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:474:16:USBD_CDC_DataIn	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:508:16:USBD_CDC_DataOut	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:532:16:USBD_CDC_EP0_RxReady	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:553:17:USBD_CDC_GetFSCfgDesc	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:580:17:USBD_CDC_GetHSCfgDesc	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:607:17:USBD_CDC_GetOtherSpeedCfgDesc	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:634:10:USBD_CDC_GetDeviceQualifierDescriptor	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:646:9:USBD_CDC_RegisterInterface	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:670:9:USBD_CDC_SetTxBuffer	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:690:9:USBD_CDC_SetRxBuffer	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:714:9:USBD_CDC_TransmitPacket	24	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:751:9:USBD_CDC_ReceivePacket	24	static

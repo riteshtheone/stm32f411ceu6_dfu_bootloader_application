@@ -1,0 +1,22 @@
+CompileFlags:
+  Add: [
+    "-I", "/opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.linux64_1.0.0.202410170706/tools/arm-none-eabi/include",
+    "-I", "/opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.linux64_1.0.0.202410170706/tools/arm-none-eabi/include/newlib-nano",
+    "-I", "/opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.linux64_1.0.0.202410170706/tools/lib/gcc/arm-none-eabi/13.3.1/include",
+    "-I", "/opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.linux64_1.0.0.202410170706/tools/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
+    # "-ferror-limit=0",
+    # "-Wno-implicit-int",
+    "-Wno-format"
+  ]
+  Remove: [
+    "-fcyclomatic-complexity"
+  ]
+  CompilationDatabase: Debug
+
+Diagnostics:
+  Suppress:
+    - unused-includes
+#     - unknown_typename
+#     - unknown_typename_suggest
+#     - typename_requires_specqual
+
