@@ -1,0 +1,17 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:90:6:HAL_PWR_DeInit	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:107:6:HAL_PWR_EnableBkUpAccess	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:126:6:HAL_PWR_DisableBkUpAccess	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:272:6:HAL_PWR_ConfigPVD	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:310:6:HAL_PWR_EnablePVD	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:318:6:HAL_PWR_DisablePVD	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:331:6:HAL_PWR_EnableWakeUpPin	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:348:6:HAL_PWR_DisableWakeUpPin	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:379:6:HAL_PWR_EnterSLEEPMode	0	static,ignoring_inline_asm
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:428:6:HAL_PWR_EnterSTOPMode	0	static,ignoring_inline_asm
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:466:6:HAL_PWR_EnterSTANDBYMode	0	static,ignoring_inline_asm
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:501:13:HAL_PWR_PVDCallback	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:486:6:HAL_PWR_PVD_IRQHandler	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:515:6:HAL_PWR_EnableSleepOnExit	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:526:6:HAL_PWR_DisableSleepOnExit	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:537:6:HAL_PWR_EnableSEVOnPend	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:548:6:HAL_PWR_DisableSEVOnPend	0	static

@@ -1,0 +1,8 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:163:6:HAL_GPIO_Init	48	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:281:6:HAL_GPIO_DeInit	36	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:358:15:HAL_GPIO_ReadPin	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:389:6:HAL_GPIO_WritePin	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:408:6:HAL_GPIO_TogglePin	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:432:19:HAL_GPIO_LockPin	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:475:13:HAL_GPIO_EXTI_Callback	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:462:6:HAL_GPIO_EXTI_IRQHandler	8	static

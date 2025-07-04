@@ -1,0 +1,7 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:80:20:USBD_CtlSendData	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:106:20:USBD_CtlContinueSendData	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:121:20:USBD_CtlPrepareRx	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:147:20:USBD_CtlContinueRx	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:159:20:USBD_CtlSendStatus	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:175:20:USBD_CtlReceiveStatus	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c:192:10:USBD_GetRxCount	0	static

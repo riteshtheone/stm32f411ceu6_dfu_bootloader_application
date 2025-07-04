@@ -1,0 +1,14 @@
+../Core/Src/main.c:76:6:_halt	0	static,ignoring_inline_asm
+../Core/Src/main.c:83:6:delay	0	static,ignoring_inline_asm
+../Core/Src/main.c:90:6:set_boot_flag	0	static
+../Core/Src/main.c:95:6:check_app_vector_table	32	static
+../Core/Src/main.c:158:9:is_app_vector_table_valid	0	static
+../Core/Src/main.c:166:6:jump_to_application	8	static,ignoring_inline_asm
+../Core/Src/main.c:175:6:check_boot_flag	8	static
+../Core/Src/main.c:215:6:print_boot_flag	8	static
+../Core/Src/main.c:220:6:print_boot_flag_bytes	16	static
+../Core/Src/main.c:235:9:is_time_elapsed	0	static
+../Core/Src/main.c:356:6:Error_Handler	24	static
+../Core/Src/main.c:182:6:check_firmware_upgrade_btn	8	static,ignoring_inline_asm
+../Core/Src/main.c:311:6:SystemClock_Config	88	static
+../Core/Src/main.c:249:5:main	40	static

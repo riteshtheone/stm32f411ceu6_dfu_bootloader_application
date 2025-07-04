@@ -1,0 +1,11 @@
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:440:17:USBD_DFU_GetCfgDesc	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:453:16:USBD_DFU_EP0_RxReady	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:705:17:USBD_DFU_GetDeviceQualifierDesc	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:721:17:USBD_DFU_GetUsrStringDesc	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:1211:14:USBD_DFU_GetDfuFuncDesc	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:465:16:USBD_DFU_EP0_TxReady	24	static,ignoring_inline_asm
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:316:16:USBD_DFU_Setup	32	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:284:16:USBD_DFU_DeInit	16	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:238:16:USBD_DFU_Init	8	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:692:16:USBD_DFU_SOF	0	static
+/home/kali/STM32Cube/Repository/STM32Cube_FW_F4_V1.28.2/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:743:9:USBD_DFU_RegisterMedia	0	static
