@@ -113,7 +113,7 @@ You can modify this logic in `main.c` of the bootloader to customize trigger met
 
 ## 📄 License
 
-This project is MIT licensed. You're free to use, modify, and distribute.
+This project is licensed under the [MIT License](./LICENSE). You're free to use, modify, and distribute.
 
 ---
 
