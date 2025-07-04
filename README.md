@@ -62,7 +62,7 @@ Flash your firmware binary (`.bin` or `.hex`) starting at address:
 
 ---
 
-### ❎ Bootloader Internal Details (Can Be Ignored)
+### ❎ Below is the Bootloader Internal Details (Can Be Ignored)
 
 ---
 
